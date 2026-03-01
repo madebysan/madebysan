@@ -43,11 +43,4 @@
 - 🌈 **[Color Fullscreen](https://github.com/madebysan/html-color-fullscreen)** – Fullscreen color viewer. Type a hex or press Space for a random color
 - 👾 **[ASCII Studio](https://github.com/madebysan/html-anscii-studio)** – Turns your webcam into real-time ASCII art
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/madebysan)
-
-## Connect
-
 [![Website](https://img.shields.io/badge/-santiagoalonso.com-000000?style=flat-square&logo=safari&logoColor=white)](https://santiagoalonso.com)
-[![GitHub](https://img.shields.io/badge/-madebysan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/madebysan)
