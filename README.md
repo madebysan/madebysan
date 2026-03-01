@@ -10,6 +10,7 @@
 
 ## Recent Projects
 
+- 🎬 **[Movies They Love](https://movies-they-love.vercel.app/)** – Discover films through curated recommendations from filmmakers and creatives
 - 📱 **[Shelf iOS](https://github.com/madebysan/shelf-ios)** – iOS audiobook & video player. Syncs with Google Drive, picks up where you left off
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
 - 🎬 **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
