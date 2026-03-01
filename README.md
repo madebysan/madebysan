@@ -10,16 +10,17 @@
 
 ## Recent Projects
 
+- 🚇 **[Arrival](https://github.com/madebysan/arrival)** – Real-time NYC subway arrivals in your macOS menu bar. Never miss your train
 - 🎬 **[Movies They Love](https://movies-they-love.vercel.app/)** – Discover films through curated recommendations from filmmakers and creatives
 - 📱 **[Shelf iOS](https://github.com/madebysan/shelf-ios)** – iOS audiobook & video player. Syncs with Google Drive, picks up where you left off
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
 - 🎬 **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
 - ⌨️ **[Wave iOS](https://github.com/madebysan/wave-ios)** – Local speech-to-text keyboard for iOS. Processed entirely on-device
 - 🎙️ **[Wave Mac](https://github.com/madebysan/wave-mac)** – Local voice-to-text for macOS. Press a shortcut, speak, text appears
-- 📋 **[Handoff](https://github.com/madebysan/handoff)** – Everything your family needs to know — accounts, documents, wishes — in one place
 
 ## All Projects
 
+- 🚇 **[Arrival](https://github.com/madebysan/arrival)** – Real-time NYC subway arrivals in your macOS menu bar. Never miss your train
 - 🎬 **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
 - 🎚️ **[Media Tools Suite](https://github.com/madebysan/media-tools-suite)** – Native macOS video & audio processing. 31 operations, batch mode, ffmpeg
 - 🤖 **[Automata](https://github.com/madebysan/automata)** – macOS menu bar app for personal automations — no scripting required
