@@ -12,10 +12,10 @@
 
 - 🚇 **[Arrival Mac](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
 - 🎬 **[Movies They Love](https://movies-they-love.vercel.app/)** – Discover films through curated recommendations from filmmakers and creatives
-- 📚 **[Shelf Mac](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) – Audiobook & video player. Syncs with Google Drive, picks up where you left off
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
 - 🎬 **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
 - 🎙️ **[Wave Mac](https://github.com/madebysan/wave-mac)** · [iOS](https://github.com/madebysan/wave-ios) – Fast local voice-to-text. Entirely on-device for both Mac and iOS
+- 🎧 **[Shelf Mac](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) – Audiobook & video player. Syncs with Google Drive, picks up where you left off
 
 ## All Projects
 
@@ -27,7 +27,7 @@
 - 📺 **[YT Player](https://github.com/madebysan/yt-player)** – Minimal always-on-top YouTube player for macOS
 - 🤫 **[Hush](https://github.com/madebysan/hush)** – Instantly block your mic by switching to a silent virtual input
 - 🎙️ **[Wave Mac](https://github.com/madebysan/wave-mac)** · [iOS](https://github.com/madebysan/wave-ios) – Fast local voice-to-text. Entirely on-device for both Mac and iOS
-- 📚 **[Shelf Mac](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) – Audiobook & video player. Syncs with Google Drive, picks up where you left off
+- 🎧 **[Shelf Mac](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) – Audiobook & video player. Syncs with Google Drive, picks up where you left off
 - 💬 **[Sidekick](https://github.com/madebysan/sidekick)** – Chrome extension to chat with AI about any webpage
 - 🔔 **[Nudge](https://github.com/madebysan/nudge)** – Chrome extension for recurring reminders with custom intervals and jitter
 - ✅ **[Habits](https://github.com/madebysan/habits)** – Daily habit tracker Chrome extension with streaks and drag-to-reorder
