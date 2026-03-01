@@ -2,15 +2,11 @@
 
 📍 **NYC** | 🎨 **Product Designer** | 🛠️ **Building tools I want to use**
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![macOS Apps](https://img.shields.io/badge/-macOS_Apps-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS Apps](https://img.shields.io/badge/-iOS_Apps-000000?style=flat-square&logo=apple&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/-Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Figma Plugins](https://img.shields.io/badge/-Figma_Plugins-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Web Tools](https://img.shields.io/badge/-Web_Tools-000000?style=flat-square&logo=safari&logoColor=white)
 
 ## Recent Projects
 
