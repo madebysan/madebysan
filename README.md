@@ -36,7 +36,7 @@
 - ✅ **[Habits](https://github.com/madebysan/habits)** – Daily habit tracker Chrome extension with streaks and drag-to-reorder
 - 🎨 **[Figma AI Responder](https://github.com/madebysan/mac-figma-ai-responder-app)** – Menu bar app that responds to Figma comments with Claude-powered feedback
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
-- 📋 **[Handoff](https://github.com/madebysan/handoff)** – Everything your family needs to know — accounts, documents, wishes — in one place
+- 📋 **[Handoff](https://github.com/madebysan/handoff)** – One document. Complete peace of mind. Organize everything your family would need to know
 - 📝 **[Markdown to PDF](https://github.com/madebysan/markdown-to-pdf)** – Paste markdown, pick a theme, download a beautiful PDF. Client-side only
 - 🎬 **[Movies They Love](https://movies-they-love.vercel.app/)** – Discover films through curated recommendations from filmmakers and creatives
 - 🌈 **[Color Fullscreen](https://github.com/madebysan/html-color-fullscreen)** – Fullscreen color viewer. Type a hex or press Space for a random color
