@@ -1,4 +1,4 @@
-# Hi, I'm san 👋
+# Hi, I'm san
 
 📍 **NYC** | 🎨 **Product Designer** | 🛠️ **Building tools I want to use**
 
