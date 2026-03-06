@@ -4,6 +4,7 @@
 
 ![macOS Apps](https://img.shields.io/badge/-macOS_Apps-000000?style=flat-square&logo=apple&logoColor=white)
 ![iOS Apps](https://img.shields.io/badge/-iOS_Apps-000000?style=flat-square&logo=apple&logoColor=white)
+![Android Apps](https://img.shields.io/badge/-Android_Apps-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/-Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![Figma Plugins](https://img.shields.io/badge/-Figma_Plugins-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Web Tools](https://img.shields.io/badge/-Web_Tools-000000?style=flat-square&logo=safari&logoColor=white)
@@ -15,7 +16,7 @@
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
 - 🎬 **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
 - 🎙️ **[Wave · macOS](https://github.com/madebysan/wave-mac)** · [iOS](https://github.com/madebysan/wave-ios) – Fast local voice-to-text. Entirely on-device for both macOS and iOS
-- 🎧 **[Shelf · macOS](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) – Audiobook & video player. Syncs with Google Drive, picks up where you left off
+- 🎧 **[Shelf · macOS](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) · [Android](https://github.com/madebysan/shelf-android) – Audiobook & video player. Syncs with Google Drive, picks up where you left off
 
 ## All Projects
 
@@ -27,7 +28,7 @@
 - 📺 **[YT Player](https://github.com/madebysan/yt-player)** – Minimal always-on-top YouTube player for macOS
 - 🤫 **[Hush](https://github.com/madebysan/hush)** – Instantly block your mic by switching to a silent virtual input
 - 🎙️ **[Wave · macOS](https://github.com/madebysan/wave-mac)** · [iOS](https://github.com/madebysan/wave-ios) – Fast local voice-to-text. Entirely on-device for both macOS and iOS
-- 🎧 **[Shelf · macOS](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) – Audiobook & video player. Syncs with Google Drive, picks up where you left off
+- 🎧 **[Shelf · macOS](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) · [Android](https://github.com/madebysan/shelf-android) – Audiobook & video player. Syncs with Google Drive, picks up where you left off
 - 💬 **[Sidekick](https://github.com/madebysan/sidekick)** – Chrome extension to chat with AI about any webpage
 - 🔔 **[Nudge](https://github.com/madebysan/nudge)** – Chrome extension for recurring reminders with custom intervals and jitter
 - ✅ **[Habits](https://github.com/madebysan/habits)** – Daily habit tracker Chrome extension with streaks and drag-to-reorder
