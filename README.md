@@ -11,6 +11,7 @@
 
 ## Recent Projects
 
+- 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Generates fake web traffic to poison ISP and data-broker profiling
 - ✍️ **[Rewrite](https://github.com/madebysan/rewrite)** – Fix grammar and spelling in any selected text with a keyboard shortcut
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
 - 🎬 **[Movies They Love](https://movies-they-love.vercel.app/)** – Discover films through curated recommendations from filmmakers and creatives
@@ -21,6 +22,7 @@
 
 ## All Projects
 
+- 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Generates fake web traffic to poison ISP and data-broker profiling
 - ✍️ **[Rewrite](https://github.com/madebysan/rewrite)** – Fix grammar and spelling in any selected text with a keyboard shortcut
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
 - 🎬 **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
