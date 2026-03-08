@@ -11,17 +11,17 @@
 
 ## Recent Projects
 
+- 🎨 **[Claude Figma Skills](https://github.com/madebysan/claude-figma-skills)** – 6 skills that let Claude Code review, modify, and sync with your Figma designs
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
 - ✍️ **[Rewrite](https://github.com/madebysan/rewrite)** – Fix grammar and spelling in any selected text with a keyboard shortcut
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
-- 🎬 **[Movies They Love](https://movies-they-love.vercel.app/)** – Discover films through curated recommendations from filmmakers and creatives
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
 - 🎬 **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
 - 🎙️ **[Wave · macOS](https://github.com/madebysan/wave-mac)** · [iOS](https://github.com/madebysan/wave-ios) – Fast local voice-to-text. Entirely on-device for both macOS and iOS
-- 🎧 **[Shelf · macOS](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) · [Android](https://github.com/madebysan/shelf-android) – Audiobook & video player. Syncs with Google Drive, picks up where you left off
 
 ## All Projects
 
+- 🎨 **[Claude Figma Skills](https://github.com/madebysan/claude-figma-skills)** – 6 skills that let Claude Code review, modify, and sync with your Figma designs
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
 - ✍️ **[Rewrite](https://github.com/madebysan/rewrite)** – Fix grammar and spelling in any selected text with a keyboard shortcut
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
