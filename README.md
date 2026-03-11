@@ -24,7 +24,7 @@
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
 - ✍️ **[Rewrite](https://github.com/madebysan/rewrite)** – Fix grammar and spelling in any selected text with a keyboard shortcut
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
-- ✂️ **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
+- ✒️ **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
 - 🎚️ **[Media Tools Suite](https://github.com/madebysan/media-tools-suite)** – Native macOS video & audio processing. 31 operations, batch mode, ffmpeg
 - 🤖 **[Automata](https://github.com/madebysan/automata)** – macOS menu bar app for personal automations — no scripting required
 - 👀 **[Peek](https://github.com/madebysan/peek)** – Digital privacy screen for macOS. Blurs everything except where your cursor is
