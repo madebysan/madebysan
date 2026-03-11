@@ -44,7 +44,7 @@
 - 🎨 **[Claude Figma Skills](https://github.com/madebysan/claude-figma-skills)** – 6 skills that let Claude Code review, modify, and sync with your Figma designs
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
 - 🎨 **[Figma AI Responder](https://github.com/madebysan/mac-figma-ai-responder-app)** – Menu bar app that responds to Figma comments with Claude-powered feedback
-- 🎨 **[Theme Editor](https://github.com/madebysan/theme-editor)** – Claude Code skill that injects a visual theme editor into Tailwind v4 projects
+- 💠 **[Theme Editor](https://github.com/madebysan/theme-editor)** – Claude Code skill that injects a visual theme editor into Tailwind v4 projects
 
 ## Media & Film
 
