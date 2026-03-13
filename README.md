@@ -11,7 +11,7 @@
 
 ## Recent Projects
 
-- ✅ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager with smart lists, projects, kanban, and scheduling
+- ☑️ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager with smart lists, projects, kanban, and scheduling
 - 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate by tapping the screen. No sensors needed
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
@@ -20,14 +20,14 @@
 
 ## Apps & Utilities
 
-- ✅ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager with smart lists, projects, kanban, and scheduling
+- ☑️ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager with smart lists, projects, kanban, and scheduling
 - 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate by tapping the screen. No sensors needed
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
 - ✍️ **[Rewrite](https://github.com/madebysan/rewrite)** – Fix grammar and spelling in any selected text with a keyboard shortcut
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
 - ✒️ **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
 - 🎚️ **[Media Tools Suite](https://github.com/madebysan/media-tools-suite)** – Native macOS video & audio processing. 31 operations, batch mode, ffmpeg
-- 🤖 **[Automata](https://github.com/madebysan/automata)** – macOS menu bar app for personal automations — no scripting required
+- 🤖 **[Automata](https://github.com/madebysan/automata)** – macOS menu bar app for personal automations, no scripting required
 - 👀 **[Peek](https://github.com/madebysan/peek)** – Digital privacy screen for macOS. Blurs everything except where your cursor is
 - 📺 **[YT Player](https://github.com/madebysan/yt-player)** – Minimal always-on-top YouTube player for macOS
 - 🤫 **[Hush](https://github.com/madebysan/hush)** – Instantly block your mic by switching to a silent virtual input
