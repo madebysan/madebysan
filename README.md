@@ -12,9 +12,6 @@
 ## Recent Projects
 
 - 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate by tapping the screen. No sensors needed
-- 🎤 **[Track Two](https://tracktwo.vercel.app/)** – A curated archive of film commentary tracks
-- 🎬 **[Cinemateca](https://cinemateca-app.vercel.app/)** – Films, people, and the connections between them
-- 📽️ **[Premiere](https://premiere-film-fest.vercel.app/)** – Film festival database and planner with recommended festival matching
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
@@ -47,12 +44,5 @@
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
 - ❇️ **[Figma AI Responder](https://github.com/madebysan/mac-figma-ai-responder-app)** – Menu bar app that responds to Figma comments with Claude-powered feedback
 - 💠 **[Theme Editor](https://github.com/madebysan/theme-editor)** – Claude Code skill that injects a visual theme editor into Tailwind v4 projects
-
-## Media & Film
-
-- 🎬 **[Movies They Love](https://movies-they-love.vercel.app/)** – Discover films through curated recommendations from filmmakers and creatives
-- 🎤 **[Track Two](https://tracktwo.vercel.app/)** – A curated archive of film commentary tracks
-- 🎬 **[Cinemateca](https://cinemateca-app.vercel.app/)** – Films, people, and the connections between them
-- 📽️ **[Premiere](https://premiere-film-fest.vercel.app/)** – Film festival database and planner with recommended festival matching
 
 [![Website](https://img.shields.io/badge/-santiagoalonso.com-000000?style=flat-square&logo=safari&logoColor=white)](https://santiagoalonso.com)
