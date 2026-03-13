@@ -11,6 +11,7 @@
 
 ## Recent Projects
 
+- ✅ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager with smart lists, projects, kanban, and scheduling
 - 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate by tapping the screen. No sensors needed
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
@@ -19,6 +20,7 @@
 
 ## Apps & Utilities
 
+- ✅ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager with smart lists, projects, kanban, and scheduling
 - 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate by tapping the screen. No sensors needed
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
 - ✍️ **[Rewrite](https://github.com/madebysan/rewrite)** – Fix grammar and spelling in any selected text with a keyboard shortcut
