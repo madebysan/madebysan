@@ -11,6 +11,7 @@
 
 ## Recent Projects
 
+- 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate by tapping the screen. No sensors needed
 - 🎤 **[Track Two](https://tracktwo.vercel.app/)** – A curated archive of film commentary tracks
 - 🎬 **[Cinemateca](https://cinemateca-app.vercel.app/)** – Films, people, and the connections between them
 - 📽️ **[Premiere](https://premiere-film-fest.vercel.app/)** – Film festival database and planner with recommended festival matching
@@ -21,6 +22,7 @@
 
 ## Apps & Utilities
 
+- 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate by tapping the screen. No sensors needed
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
 - ✍️ **[Rewrite](https://github.com/madebysan/rewrite)** – Fix grammar and spelling in any selected text with a keyboard shortcut
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
