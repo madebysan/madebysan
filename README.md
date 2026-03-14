@@ -11,7 +11,7 @@
 
 ## Recent Projects
 
-- 🔣 **[Material Icons Picker](https://github.com/madebysan/material-icons-picker)** – Figma plugin to browse, search, and insert Google Material Symbols. Live API, smart search, favorites
+- 🔣 **[Material Icons Picker](https://github.com/madebysan/material-icons-picker)** – Figma plugin to browse, search, and insert Google Material Symbols
 - ☑️ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager for macOS with smart lists, projects, kanban, and scheduling
 - 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate on iOS by tapping the screen. No sensors needed
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
@@ -44,7 +44,7 @@
 
 ## Design Tools
 
-- 🔣 **[Material Icons Picker](https://github.com/madebysan/material-icons-picker)** – Figma plugin to browse, search, and insert Google Material Symbols. Live API, smart search, favorites
+- 🔣 **[Material Icons Picker](https://github.com/madebysan/material-icons-picker)** – Figma plugin to browse, search, and insert Google Material Symbols
 - 🎨 **[Claude Figma Skills](https://github.com/madebysan/claude-figma-skills)** – 6 skills that let Claude Code review, modify, and sync with your Figma designs
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
 - ❇️ **[Figma AI Responder](https://github.com/madebysan/mac-figma-ai-responder-app)** – Menu bar app that responds to Figma comments with Claude-powered feedback
