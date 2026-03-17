@@ -16,7 +16,6 @@
 - 🔣 **[Material Icons Picker](https://github.com/madebysan/material-icons-picker)** – Figma plugin to browse, search, and insert Google Material Symbols
 - ☑️ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager for macOS with smart lists, projects, kanban, and scheduling
 - 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate on iOS by tapping the screen. No sensors needed
-- 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
 
 ## Apps & Utilities
