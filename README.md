@@ -11,7 +11,7 @@
 
 ## Recent Projects
 
-- 🩺 **[Aura](https://github.com/madebysan/aura)** – Personal health dashboard with AI chat, biomarker trends, medication adherence, habits, and WHOOP integration
+- 🩺 **[Aura](https://github.com/madebysan/aura)** – Personal health dashboard with AI chat, biomarker trends, medication adherence, and habit tracking
 - 📷 **[RawCam](https://github.com/madebysan/rawcam)** – Minimal iOS camera. No AI postprocessing — just your sensor's RAW DNG
 - 🔣 **[Material Icons Picker](https://github.com/madebysan/material-icons-picker)** – Figma plugin to browse, search, and insert Google Material Symbols
 - ☑️ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager for macOS with smart lists, projects, kanban, and scheduling
@@ -23,7 +23,7 @@
 
 ## Apps & Utilities
 
-- 🩺 **[Aura](https://github.com/madebysan/aura)** – Personal health dashboard with AI chat, biomarker trends, medication adherence, habits, and WHOOP integration
+- 🩺 **[Aura](https://github.com/madebysan/aura)** – Personal health dashboard with AI chat, biomarker trends, medication adherence, and habit tracking
 - 📷 **[RawCam](https://github.com/madebysan/rawcam)** – Minimal iOS camera. No AI postprocessing — just your sensor's RAW DNG
 - ☑️ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager for macOS with smart lists, projects, kanban, and scheduling
 - 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate on iOS by tapping the screen. No sensors needed
