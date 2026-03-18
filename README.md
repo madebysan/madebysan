@@ -25,7 +25,7 @@
 - 📷 **[RawCam](https://github.com/madebysan/rawcam)** – Minimal iOS camera. No AI postprocessing — just your sensor's RAW DNG
 - ☑️ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager for macOS with smart lists, projects, kanban, and scheduling
 - 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate on iOS by tapping the screen. No sensors needed
-- 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic to confuse data brokers
+- 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic
 - 📥 **[Inbox](https://github.com/madebysan/inbox)** – Minimal bookmark inbox for iOS and macOS. Save links, triage later. Syncs via iCloud
 - ✍️ **[Rewrite](https://github.com/madebysan/rewrite)** – Fix grammar and spelling in any selected text with a keyboard shortcut
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
@@ -36,7 +36,7 @@
 - 📺 **[YT Player](https://github.com/madebysan/yt-player)** – Minimal always-on-top YouTube player for macOS
 - 🤫 **[Hush](https://github.com/madebysan/hush)** – Instantly block your mic by switching to a silent virtual input
 - 🎙️ **[Wave · macOS](https://github.com/madebysan/wave-mac)** · [iOS](https://github.com/madebysan/wave-ios) – Fast local voice-to-text. Entirely on-device for both macOS and iOS
-- 🎧 **[Shelf · macOS](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) · [Android](https://github.com/madebysan/shelf-android) – Audiobook & video player. Syncs with Google Drive, picks up where you left off
+- 🎧 **[Shelf · macOS](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) · [Android](https://github.com/madebysan/shelf-android) – Audiobook player. Syncs with Google Drive, picks up where you left off
 - 💬 **[Sidekick](https://github.com/madebysan/sidekick)** – Chrome extension to chat with AI about any webpage
 - 🔔 **[Nudge](https://github.com/madebysan/nudge)** – Chrome extension for recurring reminders with custom intervals and jitter
 - ✅ **[Habits](https://github.com/madebysan/habits)** – Daily habit tracker Chrome extension with streaks and drag-to-reorder
