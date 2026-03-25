@@ -11,6 +11,7 @@
 
 ## Recent Projects
 
+- 💡 **[Blackout](https://github.com/madebysan/Blackout)** – Lights out with one tap. Instant screen privacy for your MacBook
 - 🎵 **[Neo Theremin](https://github.com/madebysan/neo-theremin)** – Browser-based gesture synth. Use your webcam to play music with your hands
 - 🧬 **[Aura Health](https://github.com/madebysan/aura-health)** – Health dashboard for iOS. Vitals, labs, habits, medications, and an AI chat
 - 📷 **[RawCam](https://github.com/madebysan/rawcam)** – Minimal iOS camera. No AI postprocessing — just your sensor's RAW DNG
@@ -33,6 +34,7 @@
 - 🎚️ **[Media Tools Suite](https://github.com/madebysan/media-tools-suite)** – Native macOS video & audio processing. 31 operations, batch mode, ffmpeg
 - 🤖 **[Automata](https://github.com/madebysan/automata)** – macOS menu bar app for personal automations, no scripting required
 - 👀 **[Peek](https://github.com/madebysan/peek)** – Digital privacy screen for macOS. Blurs everything except where your cursor is
+- 💡 **[Blackout](https://github.com/madebysan/Blackout)** – Lights out with one tap. Instant screen privacy for your MacBook
 - 📺 **[YT Player](https://github.com/madebysan/yt-player)** – Minimal always-on-top YouTube player for macOS
 - 🤫 **[Hush](https://github.com/madebysan/hush)** – Instantly block your mic by switching to a silent virtual input
 - 🎙️ **[Wave · macOS](https://github.com/madebysan/wave-mac)** · [iOS](https://github.com/madebysan/wave-ios) – Fast local voice-to-text. Entirely on-device for both macOS and iOS
