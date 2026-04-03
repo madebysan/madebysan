@@ -14,8 +14,6 @@
 - 🎵 **[Neo Theremin](https://github.com/madebysan/neo-theremin)** – Browser-based gesture synth. Use your webcam to play music with your hands
 - 🧬 **[Aura Health](https://github.com/madebysan/aura-health)** – Health dashboard for iOS. Vitals, labs, habits, medications, and an AI chat
 - 📷 **[RawCam](https://github.com/madebysan/rawcam)** – Minimal iOS camera. No AI postprocessing — just your sensor's RAW DNG
-- 🔣 **[Material Icons Picker](https://github.com/madebysan/material-icons-picker)** – Figma plugin to browse, search, and insert Google Material Symbols
-- 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate on iOS by tapping the screen. No sensors needed
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
 
 ## Apps & Utilities
@@ -24,7 +22,6 @@
 - 🧬 **[Aura Health](https://github.com/madebysan/aura-health)** – Health dashboard for iOS. Vitals, labs, habits, medications, and an AI chat
 - 📷 **[RawCam](https://github.com/madebysan/rawcam)** – Minimal iOS camera. No AI postprocessing — just your sensor's RAW DNG
 - ☑️ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager for macOS with smart lists, projects, kanban, and scheduling
-- 💓 **[Pulse](https://github.com/madebysan/pulse)** – Measure heart rate on iOS by tapping the screen. No sensors needed
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic
 - 📥 **[Inbox](https://github.com/madebysan/inbox)** – Minimal bookmark inbox for iOS and macOS. Save links, triage later. Syncs via iCloud
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
@@ -37,12 +34,12 @@
 - 💬 **[Sidekick](https://github.com/madebysan/sidekick)** – Chrome extension to chat with AI about any webpage
 - 📋 **[Handoff](https://github.com/madebysan/handoff)** – One document. Complete peace of mind. Organize everything your family would need to know
 - 📝 **[Markdown to PDF](https://github.com/madebysan/markdown-to-pdf)** – Paste markdown, pick a theme, download a beautiful PDF. Client-side only
-- 👾 **[ASCII Studio](https://github.com/madebysan/html-anscii-studio)** – Turns your webcam into real-time ASCII art
 
 ## Design Tools
 
 - 🔣 **[Material Icons Picker](https://github.com/madebysan/material-icons-picker)** – Figma plugin to browse, search, and insert Google Material Symbols
 - 🎨 **[Claude Figma Skills](https://github.com/madebysan/claude-figma-skills)** – 6 skills that let Claude Code review, modify, and sync with your Figma designs
+- 🎬 **[Video Frame Extractor](https://www.figma.com/community/plugin/1412207319862270234/video-frame-extractor)** – Figma plugin to extract, preview, and place video frames on your canvas
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
 - ❇️ **[Figma AI Responder](https://github.com/madebysan/mac-figma-ai-responder-app)** – Menu bar app that responds to Figma comments with Claude-powered feedback
 - 💠 **[Theme Editor](https://github.com/madebysan/theme-editor)** – Claude Code skill that injects a visual theme editor into Tailwind v4 projects
