@@ -1,6 +1,6 @@
 # Hi, I'm san
 
-📍 **NYC** | 🎨 **Product Designer** | 🛠️ **Building tools I want to use**
+📍 **NYC** | 🎨 **Product Designer**
 
 ![macOS Apps](https://img.shields.io/badge/-macOS_Apps-000000?style=flat-square&logo=apple&logoColor=white)
 ![iOS Apps](https://img.shields.io/badge/-iOS_Apps-000000?style=flat-square&logo=apple&logoColor=white)
