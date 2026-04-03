@@ -23,7 +23,6 @@
 - 📷 **[RawCam](https://github.com/madebysan/rawcam)** – Minimal iOS camera. No AI postprocessing — just your sensor's RAW DNG
 - ☑️ **[Tasks](https://github.com/madebysan/tasks)** – Personal task manager for macOS with smart lists, projects, kanban, and scheduling
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic
-- 📥 **[Inbox](https://github.com/madebysan/inbox)** – Minimal bookmark inbox for iOS and macOS. Save links, triage later. Syncs via iCloud
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
 - 🎚️ **[Media Tools Suite](https://github.com/madebysan/media-tools-suite)** – Native macOS video & audio processing. 31 operations, batch mode, ffmpeg
 - 👀 **[Peek](https://github.com/madebysan/peek)** – Digital privacy screen for macOS. Blurs everything except where your cursor is
