@@ -31,7 +31,6 @@
 - 🤫 **[Hush](https://github.com/madebysan/hush)** – Instantly block your mic by switching to a silent virtual input
 - 🎙️ **[Wave · macOS](https://github.com/madebysan/wave-mac)** · [iOS](https://github.com/madebysan/wave-ios) – Fast local voice-to-text. Entirely on-device for both macOS and iOS
 - 🎧 **[Shelf · macOS](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) · [Android](https://github.com/madebysan/shelf-android) – Audiobook player. Syncs with Google Drive, picks up where you left off
-- 💬 **[Sidekick](https://github.com/madebysan/sidekick)** – Chrome extension to chat with AI about any webpage
 - 📋 **[Handoff](https://github.com/madebysan/handoff)** – One document. Complete peace of mind. Organize everything your family would need to know
 - 📝 **[Markdown to PDF](https://github.com/madebysan/markdown-to-pdf)** – Paste markdown, pick a theme, download a beautiful PDF. Client-side only
 
