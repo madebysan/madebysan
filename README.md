@@ -11,7 +11,6 @@
 
 ## Recent Projects
 
-- 💡 **[Blackout](https://github.com/madebysan/Blackout)** – Lights out with one tap. Instant screen privacy for your MacBook
 - 🎵 **[Neo Theremin](https://github.com/madebysan/neo-theremin)** – Browser-based gesture synth. Use your webcam to play music with your hands
 - 🧬 **[Aura Health](https://github.com/madebysan/aura-health)** – Health dashboard for iOS. Vitals, labs, habits, medications, and an AI chat
 - 📷 **[RawCam](https://github.com/madebysan/rawcam)** – Minimal iOS camera. No AI postprocessing — just your sensor's RAW DNG
@@ -29,18 +28,13 @@
 - 🕵️ **[Digital Roommate](https://github.com/madebysan/digital-roommate)** – Privacy noise generator for macOS. Add noise to your network traffic
 - 📥 **[Inbox](https://github.com/madebysan/inbox)** – Minimal bookmark inbox for iOS and macOS. Save links, triage later. Syncs via iCloud
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
-- ✒️ **[Redact](https://github.com/madebysan/redact)** – Video editing without the video editor. Swift + WhisperKit + FFmpeg
 - 🎚️ **[Media Tools Suite](https://github.com/madebysan/media-tools-suite)** – Native macOS video & audio processing. 31 operations, batch mode, ffmpeg
-- 🤖 **[Automata](https://github.com/madebysan/automata)** – macOS menu bar app for personal automations, no scripting required
 - 👀 **[Peek](https://github.com/madebysan/peek)** – Digital privacy screen for macOS. Blurs everything except where your cursor is
-- 💡 **[Blackout](https://github.com/madebysan/Blackout)** – Lights out with one tap. Instant screen privacy for your MacBook
 - 📺 **[YT Player](https://github.com/madebysan/yt-player)** – Minimal always-on-top YouTube player for macOS
 - 🤫 **[Hush](https://github.com/madebysan/hush)** – Instantly block your mic by switching to a silent virtual input
 - 🎙️ **[Wave · macOS](https://github.com/madebysan/wave-mac)** · [iOS](https://github.com/madebysan/wave-ios) – Fast local voice-to-text. Entirely on-device for both macOS and iOS
 - 🎧 **[Shelf · macOS](https://github.com/madebysan/shelf-mac)** · [iOS](https://github.com/madebysan/shelf-ios) · [Android](https://github.com/madebysan/shelf-android) – Audiobook player. Syncs with Google Drive, picks up where you left off
 - 💬 **[Sidekick](https://github.com/madebysan/sidekick)** – Chrome extension to chat with AI about any webpage
-- 🔔 **[Nudge](https://github.com/madebysan/nudge)** – Chrome extension for recurring reminders with custom intervals and jitter
-- ✅ **[Habits](https://github.com/madebysan/habits)** – Daily habit tracker Chrome extension with streaks and drag-to-reorder
 - 📋 **[Handoff](https://github.com/madebysan/handoff)** – One document. Complete peace of mind. Organize everything your family would need to know
 - 📝 **[Markdown to PDF](https://github.com/madebysan/markdown-to-pdf)** – Paste markdown, pick a theme, download a beautiful PDF. Client-side only
 - 👾 **[ASCII Studio](https://github.com/madebysan/html-anscii-studio)** – Turns your webcam into real-time ASCII art
