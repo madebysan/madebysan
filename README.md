@@ -19,6 +19,7 @@
 - 🚇 **[Arrival · macOS](https://github.com/madebysan/arrival)** · [iOS](https://github.com/madebysan/arrival-ios) – Real-time NYC subway arrivals. Never miss your train
 - 🎵 **[Neo Theremin](https://github.com/madebysan/neo-theremin)** – Browser-based gesture synth. Use your webcam to play music with your hands
 - 📋 **[Handoff](https://github.com/madebysan/handoff)** – One document. Complete peace of mind. Organize everything your family would need to know
+- 🎬 **[Cinemateca](https://cinemateca.co)** – Go deeper into cinema. Explore 65,000+ films, filmmakers, festivals, and curated lists
 
 ## Design Tools
 
@@ -27,5 +28,6 @@
 - 🧹 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** – Figma plugin to find and remove redundant auto layout wrappers
 - 🎨 **[Claude Figma Skills](https://github.com/madebysan/claude-figma-skills)** – 6 skills that let Claude Code review, modify, and sync with your Figma designs
 - 💠 **[Theme Editor](https://github.com/madebysan/theme-editor)** – Claude Code skill that injects a visual theme editor into Tailwind v4 projects
+- 📱 **[Craft](https://craft.santiagoalonso.com)** – Turn screenshots and videos into mockups. Realistic 3D devices, custom lighting, bulk export
 
 [![Website](https://img.shields.io/badge/-santiagoalonso.com-000000?style=flat-square&logo=safari&logoColor=white)](https://santiagoalonso.com)
