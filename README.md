@@ -11,7 +11,7 @@
 ## Apps & Utilities
 
 - 🎬 **[Cinemateca](https://cinemateca.co)** – The film research platform. Explore 65,000+ films, filmmakers, festivals, and curated lists
-- ✏️ **[Rewrite](https://github.com/madebysan/rewrite)** – AI-powered grammar and spelling auto-fixer for macOS. Triggered with a keyboard shortcut
+- ✏️ **[Rewrite](https://github.com/madebysan/rewrite)** – AI-powered grammar and spelling auto-fixer for macOS. Select text, hit a shortcut, done
 - 📷 **[RawCam](https://github.com/madebysan/rawcam)** – Minimal iOS camera. No AI postprocessing — just your sensor's RAW DNG
 - 🧬 **[Aura Health](https://github.com/madebysan/aura-health)** – Health dashboard for iOS. Vitals, labs, habits, medications, and an AI chat
 - 🎵 **[Neo Theremin](https://github.com/madebysan/neo-theremin)** – Browser-based gesture synth. Use your webcam to play music with your hands
