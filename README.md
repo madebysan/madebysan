@@ -17,7 +17,9 @@ I also build and ship my own apps.
 
 **[RawCam](https://github.com/madebysan/rawcam)** — Minimal iOS camera. No AI postprocessing — just your sensor.
 
-## Utilities
+<details>
+<summary><strong>Utilities</strong></summary>
+<br>
 
 **[Peek](https://github.com/madebysan/peek)** — Digital privacy screen for macOS. Blurs everything except where your cursor is.
 
@@ -29,7 +31,11 @@ I also build and ship my own apps.
 
 **[Neo Theremin](https://neo-theremin.vercel.app)** — Browser-based gesture synth. Play music with your hands using webcam tracking.
 
-## Design Tools
+</details>
+
+<details>
+<summary><strong>Design Tools</strong></summary>
+<br>
 
 **[Craft](https://craft.santiagoalonso.com)** — Turn screenshots and videos into device mockups with realistic 3D lighting.
 
@@ -40,6 +46,8 @@ I also build and ship my own apps.
 **[Autolayout Cleaner](https://github.com/madebysan/autolayout-cleaner)** — Figma plugin to find and remove redundant auto layout wrappers.
 
 **[Video Frame Extractor](https://www.figma.com/community/plugin/1412207319862270234/video-frame-extractor)** — Figma plugin to extract and place video frames on canvas.
+
+</details>
 
 ---
 
