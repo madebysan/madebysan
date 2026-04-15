@@ -1,6 +1,9 @@
-# Hi, I'm san
+# san
 
-Product designer in NYC. I design and build things.
+Product Designer · New York
+
+I work across product, brand, and systems.
+I also build and ship my own apps.
 
 ## Projects
 
