@@ -10,6 +10,7 @@ I also build and ship my own apps.
 | | |
 |---|---|
 | **[Cinemateca](https://cinemateca.co)** | Film research platform. 65,000+ films, filmmakers, festivals, and curated lists. |
+| **[Aura Health](https://github.com/madebysan/aura-health)** | Health dashboard for iOS and macOS. Vitals, labs, habits, medications, and a built-in health assistant. |
 | **[Shelf](https://github.com/madebysan/shelf)** | Audiobook and video player. Syncs with Google Drive. [macOS](https://github.com/madebysan/shelf-mac) · [iOS](https://github.com/madebysan/shelf-ios) · [Android](https://github.com/madebysan/shelf-android) |
 | **[Handoff](https://handoff-one.vercel.app)** | Everything your family would need to know, organized into one document you control. |
 | **[Rewrite](https://github.com/madebysan/rewrite)** | Fix grammar and spelling in any selected text with one keystroke. macOS menu bar app. |
