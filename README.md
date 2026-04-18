@@ -10,7 +10,7 @@ I also build and ship my own apps.
 | | |
 |---|---|
 | **[Cinemateca](https://cinemateca.co)** | Film research platform. 65,000+ films, filmmakers, festivals, and curated lists. |
-| **[Greenlight](https://greenlight.santiagoalonso.com)** | Script to vision deck in minutes. Built for indie filmmakers. |
+| **[Greenlight](https://greenlight.santiagoalonso.com)** | Turn a script into something tangible, fast. A vision deck generator for filmmakers and students. |
 | **[Aura Health](https://github.com/madebysan/aura-health)** | Health dashboard for iOS and macOS. Vitals, labs, habits, medications, and a built-in health assistant. |
 | **[Handoff](https://handoff-one.vercel.app)** | Everything your family would need to know, organized into one document you control. |
 
