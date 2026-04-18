@@ -12,16 +12,16 @@ I also build and ship my own apps.
 | **[Cinemateca](https://cinemateca.co)** | Film research platform. 65,000+ films, filmmakers, festivals, and curated lists. |
 | **[Greenlight](https://greenlight.santiagoalonso.com)** | Script to vision deck in minutes. |
 | **[Aura Health](https://github.com/madebysan/aura-health)** | Health dashboard for iOS and macOS. Vitals, labs, habits, medications, and a built-in health assistant. |
-| **[Markflow](https://github.com/madebysan/markflow)** | Native iOS markdown reader and editor. |
-| **[Shelf](https://github.com/madebysan/shelf)** | Audiobook and video player. Syncs with Google Drive. macOS · iOS · Android. |
 | **[Handoff](https://handoff-one.vercel.app)** | Everything your family would need to know, organized into one document you control. |
-| **[Rewrite](https://github.com/madebysan/rewrite)** | Fix grammar and spelling in any selected text with one keystroke. macOS menu bar app. |
-| **[RawCam](https://github.com/madebysan/rawcam)** | Minimal iOS camera. No AI postprocessing — just your sensor. |
 
 ## Utilities
 
 | | |
 |---|---|
+| **[Rewrite](https://github.com/madebysan/rewrite)** | Fix grammar and spelling in any selected text with one keystroke. macOS menu bar app. |
+| **[Markflow](https://github.com/madebysan/markflow)** | Native iOS markdown reader and editor. |
+| **[Shelf](https://github.com/madebysan/shelf)** | Audiobook and video player. Syncs with Google Drive. macOS · iOS · Android. |
+| **[RawCam](https://github.com/madebysan/rawcam)** | Minimal iOS camera. No AI postprocessing — just your sensor. |
 | **[Peek](https://github.com/madebysan/peek)** | Digital privacy screen for macOS. Blurs everything except where your cursor is. |
 | **[Digital Roommate](https://github.com/madebysan/digital-roommate)** | Privacy noise generator for macOS. Adds realistic web traffic to poison data-broker profiling. |
 | **[Wave](https://github.com/madebysan/wave-mac)** | Local voice-to-text for [macOS](https://github.com/madebysan/wave-mac) and [iOS](https://github.com/madebysan/wave-ios). Entirely on-device. |
