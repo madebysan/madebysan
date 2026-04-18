@@ -10,7 +10,7 @@ I also build and ship my own apps.
 | | |
 |---|---|
 | **[Cinemateca](https://cinemateca.co)** | Film research platform. 65,000+ films, filmmakers, festivals, and curated lists. |
-| **[Greenlight](https://greenlight.santiagoalonso.com)** | Pre-production bible generator for filmmakers. Upload a screenplay, get production docs, storyboards, posters, and character portraits. |
+| **[Greenlight](https://greenlight.santiagoalonso.com)** | Script to vision deck in minutes. |
 | **[Aura Health](https://github.com/madebysan/aura-health)** | Health dashboard for iOS and macOS. Vitals, labs, habits, medications, and a built-in health assistant. |
 | **[Shelf](https://github.com/madebysan/shelf)** | Audiobook and video player. Syncs with Google Drive. macOS · iOS · Android. |
 | **[Handoff](https://handoff-one.vercel.app)** | Everything your family would need to know, organized into one document you control. |
