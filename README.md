@@ -12,10 +12,10 @@ I also build and ship my own apps.
 | **[Cinemateca](https://cinemateca.co)** | Film research platform. 65,000+ films, filmmakers, festivals, and curated lists. |
 | **[Greenlight](https://greenlight.santiagoalonso.com)** | Script to vision deck in minutes. |
 | **[Aura Health](https://github.com/madebysan/aura-health)** | Health dashboard for iOS and macOS. Vitals, labs, habits, medications, and a built-in health assistant. |
+| **[Markflow](https://github.com/madebysan/markflow)** | Native iOS markdown reader and editor. |
 | **[Shelf](https://github.com/madebysan/shelf)** | Audiobook and video player. Syncs with Google Drive. macOS · iOS · Android. |
 | **[Handoff](https://handoff-one.vercel.app)** | Everything your family would need to know, organized into one document you control. |
 | **[Rewrite](https://github.com/madebysan/rewrite)** | Fix grammar and spelling in any selected text with one keystroke. macOS menu bar app. |
-| **[Markflow](https://github.com/madebysan/markflow)** | Native iOS markdown reader and editor. Open .md files from anywhere, edit with a rich toolbar, export without touching the original. |
 | **[RawCam](https://github.com/madebysan/rawcam)** | Minimal iOS camera. No AI postprocessing — just your sensor. |
 
 ## Utilities
