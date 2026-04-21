@@ -8,30 +8,30 @@ I also build and ship my own apps.
 ## Projects
 
 ❋ [**Cinemateca**](https://cinemateca.co) — Film research platform. 65,000+ films, filmmakers, festivals, and curated lists.<br>
-❋ [**Greenlight**](https://greenlight.santiagoalonso.com) — Turn a script into something tangible, fast. A vision deck generator for filmmakers and students.<br>
-❋ [**Aura Health**](https://github.com/madebysan/aura-health) — Health dashboard for iOS and macOS. Vitals, labs, habits, medications, and a built-in health assistant.<br>
-❋ [**Handoff**](https://handoff-one.vercel.app) — Everything your family would need to know, organized into one document you control.
+❀ [**Greenlight**](https://greenlight.santiagoalonso.com) — Turn a script into something tangible, fast. A vision deck generator for filmmakers and students.<br>
+✿ [**Aura Health**](https://github.com/madebysan/aura-health) — Health dashboard for iOS and macOS. Vitals, labs, habits, medications, and a built-in health assistant.<br>
+❁ [**Handoff**](https://handoff-one.vercel.app) — Everything your family would need to know, organized into one document you control.
 
 ## Utilities
 
 ✦ [**Rewrite**](https://github.com/madebysan/rewrite) — Fix grammar and spelling in any selected text with one keystroke. macOS menu bar app.<br>
-✦ [**Cue**](https://github.com/madebysan/cue) — Floating macOS teleprompter. Listens and auto-scrolls your script to match what you say.<br>
-✦ [**Markflow**](https://github.com/madebysan/markflow) — Native iOS markdown reader and editor.<br>
-✦ [**Shelf**](https://github.com/madebysan/shelf) — Audiobook and video player. Syncs with Google Drive. macOS · iOS · Android.<br>
-✦ [**RawCam**](https://github.com/madebysan/rawcam) — Minimal iOS camera. No AI postprocessing — just your sensor.<br>
-✦ [**Peek**](https://github.com/madebysan/peek) — Digital privacy screen for macOS. Blurs everything except where your cursor is.<br>
-✦ [**Digital Roommate**](https://github.com/madebysan/digital-roommate) — Privacy noise generator for macOS. Adds realistic web traffic to poison data-broker profiling.<br>
-✦ [**Wave**](https://github.com/madebysan/wave-mac) — Local voice-to-text for [macOS](https://github.com/madebysan/wave-mac) and [iOS](https://github.com/madebysan/wave-ios). Entirely on-device.<br>
-✦ [**Arrival**](https://github.com/madebysan/arrival) — Real-time NYC subway arrivals for [macOS](https://github.com/madebysan/arrival) and [iOS](https://github.com/madebysan/arrival-ios).<br>
-✦ [**Neo Theremin**](https://neo-theremin.vercel.app) — Browser-based gesture synth. Play music with your hands using webcam tracking.
+✧ [**Cue**](https://github.com/madebysan/cue) — Floating macOS teleprompter. Listens and auto-scrolls your script to match what you say.<br>
+✶ [**Markflow**](https://github.com/madebysan/markflow) — Native iOS markdown reader and editor.<br>
+✷ [**Shelf**](https://github.com/madebysan/shelf) — Audiobook and video player. Syncs with Google Drive. macOS · iOS · Android.<br>
+✸ [**RawCam**](https://github.com/madebysan/rawcam) — Minimal iOS camera. No AI postprocessing — just your sensor.<br>
+✺ [**Peek**](https://github.com/madebysan/peek) — Digital privacy screen for macOS. Blurs everything except where your cursor is.<br>
+✻ [**Digital Roommate**](https://github.com/madebysan/digital-roommate) — Privacy noise generator for macOS. Adds realistic web traffic to poison data-broker profiling.<br>
+✼ [**Wave**](https://github.com/madebysan/wave-mac) — Local voice-to-text for [macOS](https://github.com/madebysan/wave-mac) and [iOS](https://github.com/madebysan/wave-ios). Entirely on-device.<br>
+✽ [**Arrival**](https://github.com/madebysan/arrival) — Real-time NYC subway arrivals for [macOS](https://github.com/madebysan/arrival) and [iOS](https://github.com/madebysan/arrival-ios).<br>
+❄ [**Neo Theremin**](https://neo-theremin.vercel.app) — Browser-based gesture synth. Play music with your hands using webcam tracking.
 
 ## Design Tools
 
 ❂ [**Craft**](https://craft.santiagoalonso.com) — Turn screenshots and videos into device mockups with realistic 3D lighting.<br>
-❂ [**Theme Editor**](https://github.com/madebysan/theme-editor) — Visual theme editor for React + Tailwind CSS v4 projects. Tweak design tokens live in the browser.<br>
-❂ [**Material Icons Picker**](https://github.com/madebysan/material-icons-picker) — Figma plugin to browse and insert Google Material Symbols.<br>
-❂ [**Autolayout Cleaner**](https://github.com/madebysan/autolayout-cleaner) — Figma plugin to find and remove redundant auto layout wrappers.<br>
-❂ [**Video Frame Extractor**](https://www.figma.com/community/plugin/1412207319862270234/video-frame-extractor) — Figma plugin to extract and place video frames on canvas.
+❃ [**Theme Editor**](https://github.com/madebysan/theme-editor) — Visual theme editor for React + Tailwind CSS v4 projects. Tweak design tokens live in the browser.<br>
+❇ [**Material Icons Picker**](https://github.com/madebysan/material-icons-picker) — Figma plugin to browse and insert Google Material Symbols.<br>
+❆ [**Autolayout Cleaner**](https://github.com/madebysan/autolayout-cleaner) — Figma plugin to find and remove redundant auto layout wrappers.<br>
+❈ [**Video Frame Extractor**](https://www.figma.com/community/plugin/1412207319862270234/video-frame-extractor) — Figma plugin to extract and place video frames on canvas.
 
 ---
 
