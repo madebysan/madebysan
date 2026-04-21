@@ -19,6 +19,7 @@ I also build and ship my own apps.
 | | |
 |---|---|
 | **[Rewrite](https://github.com/madebysan/rewrite)** | Fix grammar and spelling in any selected text with one keystroke. macOS menu bar app. |
+| **[Cue](https://github.com/madebysan/cue)** | Floating macOS teleprompter. Listens while you rehearse and auto-scrolls your script to match what you say. |
 | **[Markflow](https://github.com/madebysan/markflow)** | Native iOS markdown reader and editor. |
 | **[Shelf](https://github.com/madebysan/shelf)** | Audiobook and video player. Syncs with Google Drive. macOS · iOS · Android. |
 | **[RawCam](https://github.com/madebysan/rawcam)** | Minimal iOS camera. No AI postprocessing — just your sensor. |
