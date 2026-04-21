@@ -35,7 +35,7 @@ I also build and ship my own apps.
 
 ✽ [**Arrival**](https://github.com/madebysan/arrival) — Real-time NYC subway arrivals for [macOS](https://github.com/madebysan/arrival) and [iOS](https://github.com/madebysan/arrival-ios).
 
-❄ [**Neo Theremin**](https://neo-theremin.vercel.app) — Browser-based gesture synth. Play music with your hands using webcam tracking.
+✹ [**Neo Theremin**](https://neo-theremin.vercel.app) — Browser-based gesture synth. Play music with your hands using webcam tracking.
 
 ## Design Tools
 
