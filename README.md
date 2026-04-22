@@ -24,7 +24,7 @@ I also build and ship my own apps.
 ✼ [**Wave**](https://github.com/madebysan/wave-mac) — Local voice-to-text for [macOS](https://github.com/madebysan/wave-mac) and [iOS](https://github.com/madebysan/wave-ios). Entirely on-device.<br>
 ✽ [**Arrival**](https://github.com/madebysan/arrival) — Real-time NYC subway arrivals for [macOS](https://github.com/madebysan/arrival) and [iOS](https://github.com/madebysan/arrival-ios).<br>
 ✹ [**Neo Theremin**](https://neo-theremin.vercel.app) — Browser-based gesture synth. Play music with your hands using webcam tracking.<br>
-✾ [**Flip**](https://github.com/madebysan/flip) — Turn notes into flashcards using any AI. Works with ChatGPT, Gemini, Claude, or any LLM that returns JSON.
+✾ [**Flip**](https://github.com/madebysan/flip) — Turn notes into flashcards to study. No AI API key required.
 
 ## Design Tools
 
