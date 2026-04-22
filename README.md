@@ -2,47 +2,49 @@
 
 Product Designer · New York
 
-I work across product, brand, and systems.
-I also build and ship my own apps.
+I work across product, brand, and systems. I build the tools I want to use, rebuild the ones I want to understand, and give them away for others to do the same.
 
-## Projects
+## Life
 
-❋ [**Cinemateca**](https://cinemateca.co) — Film research platform. 65,000+ films, filmmakers, festivals, and curated lists.<br>
-❀ [**Greenlight**](https://greenlight.santiagoalonso.com) — Turn a script into something tangible, fast. A vision deck generator for filmmakers and students.<br>
-✿ [**Aura Health**](https://github.com/madebysan/aura-health) — Health dashboard for iOS and macOS. Vitals, labs, habits, medications, and a built-in health assistant.<br>
-❁ [**Handoff**](https://handoff-one.vercel.app) — Everything your family would need to know, organized into one document you control.
+✿ [**Aura Health**](https://github.com/madebysan/aura-health) — Health dashboard and accountability buddy. iOS and macOS.<br>
+❁ [**Handoff**](https://handoff-one.vercel.app) — Everything your family needs if something happens to you.<br>
+❋ [**Flip**](https://github.com/madebysan/flip) — Turn notes into flashcards to study. No AI API key required. Browser-based.
 
-## AI + Design Engineering
+## Creative
 
-✱ [**Figma AI Responder**](https://github.com/madebysan/mac-figma-ai-responder-app) — macOS menu bar app that posts AI design feedback as Figma comments. Trigger with @AI in any file.<br>
-✲ [**Sidekick**](https://github.com/madebysan/sidekick) — Context-aware AI for Chrome or Brave. Chat with YouTube transcripts and any page, no tracking.
+✦ [**Cinemateca**](https://cinemateca.co) — Film discovery and research platform.<br>
+✧ [**Greenlight**](https://greenlight.santiagoalonso.com) — Create film vision decks from screenplays in minutes.<br>
+✫ [**Redact**](https://github.com/madebysan/redact) — Transcript-based video editing. macOS (Swift + WhisperKit + FFmpeg).<br>
+✹ [**Neo Theremin**](https://neo-theremin.vercel.app) — Gesture-based synth via webcam tracking. Browser-based.<br>
+✸ [**RawCam**](https://github.com/madebysan/rawcam) — Minimal camera. Just the sensor, no postprocessing/AI. iOS.<br>
+✷ [**Shelf**](https://github.com/madebysan/shelf) — Audiobook library and audio player for your local files. macOS · iOS · Android.
+
+## Privacy
+
+✺ [**Peek**](https://github.com/madebysan/peek) — Privacy screen that blurs around the cursor. macOS.<br>
+✻ [**Digital Roommate**](https://github.com/madebysan/digital-roommate) — Generates fake web traffic to poison data-broker profiles. macOS.<br>
+✲ [**Sidekick**](https://github.com/madebysan/sidekick) — Turn Chrome/Brave into your own privacy-first AI browser. Chrome extension.
 
 ## Utilities
 
-✦ [**Rewrite**](https://github.com/madebysan/rewrite) — Fix grammar and spelling in any selected text with one keystroke. macOS menu bar app.<br>
-✧ [**Cue**](https://github.com/madebysan/cue) — Floating macOS teleprompter. Listens and auto-scrolls your script to match what you say.<br>
-✫ [**Redact**](https://github.com/madebysan/redact) — Video editing without the video editor. Transcript-based cuts with on-device transcription. macOS.<br>
-✶ [**Markflow**](https://github.com/madebysan/markflow) — Native iOS markdown reader and editor.<br>
-✷ [**Shelf**](https://github.com/madebysan/shelf) — Audiobook and video player. Syncs with Google Drive. macOS · iOS · Android.<br>
-✸ [**RawCam**](https://github.com/madebysan/rawcam) — Minimal iOS camera. No AI postprocessing — just your sensor.<br>
-✺ [**Peek**](https://github.com/madebysan/peek) — Digital privacy screen for macOS. Blurs everything except where your cursor is.<br>
-✻ [**Digital Roommate**](https://github.com/madebysan/digital-roommate) — Privacy noise generator for macOS. Adds realistic web traffic to poison data-broker profiling.<br>
-✼ [**Wave**](https://github.com/madebysan/wave-mac) — Local voice-to-text for [macOS](https://github.com/madebysan/wave-mac) and [iOS](https://github.com/madebysan/wave-ios). Entirely on-device.<br>
-✽ [**Arrival**](https://github.com/madebysan/arrival) — Real-time NYC subway arrivals for [macOS](https://github.com/madebysan/arrival) and [iOS](https://github.com/madebysan/arrival-ios).<br>
-✹ [**Neo Theremin**](https://neo-theremin.vercel.app) — Browser-based gesture synth. Play music with your hands using webcam tracking.<br>
-✾ [**Flip**](https://github.com/madebysan/flip) — Turn notes into flashcards to study. No AI API key required.
+✶ [**Rewrite**](https://github.com/madebysan/rewrite) — Quickly fix grammar via a keyboard shortcut. macOS menu bar.<br>
+✼ [**Cue**](https://github.com/madebysan/cue) — Floating teleprompter that syncs with your speech. macOS.<br>
+✽ [**Markflow**](https://github.com/madebysan/markflow) — Simple on-the-go markdown reader and editor. iOS.<br>
+✾ [**Arrival**](https://github.com/madebysan/arrival) — NYC subway departures/arrivals. macOS · iOS.<br>
+✱ [**Wave**](https://github.com/madebysan/wave-mac) — Local voice-to-text powered by Whisper. macOS · iOS.
 
 ## Design Tools
 
-❂ [**Craft**](https://craft.santiagoalonso.com) — Turn screenshots and videos into device mockups with realistic 3D lighting.<br>
-❃ [**Theme Editor**](https://github.com/madebysan/theme-editor) — Visual theme editor for React + Tailwind CSS v4 projects. Tweak design tokens live in the browser.<br>
-❉ [**Material Icons Picker**](https://github.com/madebysan/material-icons-picker) — Figma plugin to browse and insert Google Material Symbols.<br>
-❆ [**Autolayout Cleaner**](https://github.com/madebysan/autolayout-cleaner) — Figma plugin to find and remove redundant auto layout wrappers.<br>
-❈ [**Video Frame Extractor**](https://www.figma.com/community/plugin/1412207319862270234/video-frame-extractor) — Figma plugin to extract and place video frames on canvas.<br>
-✣ [**DIY Mockup Maker**](https://www.figma.com/community/plugin/1472440900488237782) — Figma plugin to bulk-create product mockups on canvas.<br>
-❊ [**Hand-off Assistant**](https://www.figma.com/community/widget/1466285168514276742) — Figma widget with a design and engineering hand-off checklist.<br>
-❅ [**PrevieURL**](https://www.figma.com/community/plugin/1470641923526480701) — Figma plugin to turn any URL into a preview card.<br>
-✥ [**Page Assistant**](https://www.figma.com/community/plugin/1467383639026613255) — Figma plugin to set up pages and section structure in a file.<br>
+❂ [**Craft**](https://craft.santiagoalonso.com) — Create device mockups with realistic 3D lighting.<br>
+❃ [**Theme Editor**](https://github.com/madebysan/theme-editor) — Live theme editor for React + Tailwind v4.<br>
+❀ [**Figma AI Responder**](https://github.com/madebysan/mac-figma-ai-responder-app) — Get immediate design feedback as Figma comments. macOS menu bar.<br>
+❉ [**Material Icons Picker**](https://github.com/madebysan/material-icons-picker) — Browse and insert Material Symbols. Figma plugin.<br>
+❆ [**Autolayout Cleaner**](https://github.com/madebysan/autolayout-cleaner) — Remove redundant auto-layout wrappers. Figma plugin.<br>
+❈ [**Video Frame Extractor**](https://www.figma.com/community/plugin/1412207319862270234/video-frame-extractor) — Extract video frames and insert them into Figma. Figma plugin.<br>
+✣ [**DIY Mockup Maker**](https://www.figma.com/community/plugin/1472440900488237782) — Bulk-create design mockups in Figma. Figma plugin.<br>
+❊ [**Hand-off Assistant**](https://www.figma.com/community/widget/1466285168514276742) — Hand-off checklist for design/engineering collaboration. Figma widget.<br>
+❅ [**PrevieURL**](https://www.figma.com/community/plugin/1470641923526480701) — URLs to preview cards. Figma plugin.<br>
+✥ [**Page Assistant**](https://www.figma.com/community/plugin/1467383639026613255) — Set up file sections and page names. Figma plugin.<br>
 ✤ [**Design Swatches**](https://designmd.santiagoalonso.com) — Portable visual identity for AI coding agents.
 
 ---
