@@ -39,6 +39,10 @@ I also build and ship my own apps.
 ❅ [**PrevieURL**](https://www.figma.com/community/plugin/1470641923526480701) — Figma plugin to turn any URL into a preview card.<br>
 ✥ [**Page Assistant**](https://www.figma.com/community/plugin/1467383639026613255) — Figma plugin to set up pages and section structure in a file.
 
+## Exploring
+
+**Design Swatches** — Portable visual identity for AI coding agents. 81-brand DESIGN.md corpus with a browsable explorer.
+
 ---
 
 [santiagoalonso.com](https://santiagoalonso.com) · [figma.com/@san](https://www.figma.com/@san)
