@@ -12,6 +12,11 @@ I also build and ship my own apps.
 ✿ [**Aura Health**](https://github.com/madebysan/aura-health) — Health dashboard for iOS and macOS. Vitals, labs, habits, medications, and a built-in health assistant.<br>
 ❁ [**Handoff**](https://handoff-one.vercel.app) — Everything your family would need to know, organized into one document you control.
 
+## AI + Design Engineering
+
+✱ [**Figma AI Responder**](https://github.com/madebysan/mac-figma-ai-responder-app) — macOS menu bar app that posts AI design feedback as Figma comments. Trigger with @AI in any file.<br>
+✲ [**Sidekick**](https://github.com/madebysan/sidekick) — Context-aware AI for Chrome or Brave. Chat with YouTube transcripts and any page, no tracking.
+
 ## Utilities
 
 ✦ [**Rewrite**](https://github.com/madebysan/rewrite) — Fix grammar and spelling in any selected text with one keystroke. macOS menu bar app.<br>
@@ -37,11 +42,8 @@ I also build and ship my own apps.
 ✣ [**DIY Mockup Maker**](https://www.figma.com/community/plugin/1472440900488237782) — Figma plugin to bulk-create product mockups on canvas.<br>
 ❊ [**Hand-off Assistant**](https://www.figma.com/community/widget/1466285168514276742) — Figma widget with a design and engineering hand-off checklist.<br>
 ❅ [**PrevieURL**](https://www.figma.com/community/plugin/1470641923526480701) — Figma plugin to turn any URL into a preview card.<br>
-✥ [**Page Assistant**](https://www.figma.com/community/plugin/1467383639026613255) — Figma plugin to set up pages and section structure in a file.
-
-## Exploring
-
-**Design Swatches** — Portable visual identity for AI coding agents. 81-brand DESIGN.md corpus with a browsable explorer.
+✥ [**Page Assistant**](https://www.figma.com/community/plugin/1467383639026613255) — Figma plugin to set up pages and section structure in a file.<br>
+✤ [**Design Swatches**](https://designmd.santiagoalonso.com) — Portable visual identity for AI coding agents.
 
 ---
 
