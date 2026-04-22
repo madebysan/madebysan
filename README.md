@@ -16,6 +16,7 @@ I also build and ship my own apps.
 
 ✦ [**Rewrite**](https://github.com/madebysan/rewrite) — Fix grammar and spelling in any selected text with one keystroke. macOS menu bar app.<br>
 ✧ [**Cue**](https://github.com/madebysan/cue) — Floating macOS teleprompter. Listens and auto-scrolls your script to match what you say.<br>
+✴ [**Redact**](https://github.com/madebysan/redact) — Video editing without the video editor. Transcript-based cuts with on-device transcription. macOS.<br>
 ✶ [**Markflow**](https://github.com/madebysan/markflow) — Native iOS markdown reader and editor.<br>
 ✷ [**Shelf**](https://github.com/madebysan/shelf) — Audiobook and video player. Syncs with Google Drive. macOS · iOS · Android.<br>
 ✸ [**RawCam**](https://github.com/madebysan/rawcam) — Minimal iOS camera. No AI postprocessing — just your sensor.<br>
@@ -32,7 +33,11 @@ I also build and ship my own apps.
 ❃ [**Theme Editor**](https://github.com/madebysan/theme-editor) — Visual theme editor for React + Tailwind CSS v4 projects. Tweak design tokens live in the browser.<br>
 ❉ [**Material Icons Picker**](https://github.com/madebysan/material-icons-picker) — Figma plugin to browse and insert Google Material Symbols.<br>
 ❆ [**Autolayout Cleaner**](https://github.com/madebysan/autolayout-cleaner) — Figma plugin to find and remove redundant auto layout wrappers.<br>
-❈ [**Video Frame Extractor**](https://www.figma.com/community/plugin/1412207319862270234/video-frame-extractor) — Figma plugin to extract and place video frames on canvas.
+❈ [**Video Frame Extractor**](https://www.figma.com/community/plugin/1412207319862270234/video-frame-extractor) — Figma plugin to extract and place video frames on canvas.<br>
+❇ [**DIY Mockup Maker**](https://www.figma.com/community/plugin/1472440900488237782) — Figma plugin to bulk-create product mockups on canvas.<br>
+❊ [**Hand-off Assistant**](https://www.figma.com/community/widget/1466285168514276742) — Figma widget with a design and engineering hand-off checklist.<br>
+❅ [**PrevieURL**](https://www.figma.com/community/plugin/1470641923526480701) — Figma plugin to turn any URL into a preview card.<br>
+❄ [**Page Assistant**](https://www.figma.com/community/plugin/1467383639026613255) — Figma plugin to set up pages and section structure in a file.
 
 ---
 
