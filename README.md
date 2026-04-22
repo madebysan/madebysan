@@ -32,7 +32,11 @@ I also build and ship my own apps.
 ❃ [**Theme Editor**](https://github.com/madebysan/theme-editor) — Visual theme editor for React + Tailwind CSS v4 projects. Tweak design tokens live in the browser.<br>
 ❉ [**Material Icons Picker**](https://github.com/madebysan/material-icons-picker) — Figma plugin to browse and insert Google Material Symbols.<br>
 ❆ [**Autolayout Cleaner**](https://github.com/madebysan/autolayout-cleaner) — Figma plugin to find and remove redundant auto layout wrappers.<br>
-❈ [**Video Frame Extractor**](https://www.figma.com/community/plugin/1412207319862270234/video-frame-extractor) — Figma plugin to extract and place video frames on canvas.
+❈ [**Video Frame Extractor**](https://www.figma.com/community/plugin/1412207319862270234/video-frame-extractor) — Figma plugin to extract and place video frames on canvas.<br>
+❇ [**DIY Mockup Maker**](https://www.figma.com/community/plugin/1472440900488237782) — Figma plugin to bulk-create product mockups on canvas.<br>
+❊ [**Hand-off Assistant**](https://www.figma.com/community/widget/1466285168514276742) — Figma widget with a design and engineering hand-off checklist.<br>
+❅ [**PrevieURL**](https://www.figma.com/community/plugin/1470641923526480701) — Figma plugin to turn any URL into a preview card.<br>
+❄ [**Page Assistant**](https://www.figma.com/community/plugin/1467383639026613255) — Figma plugin to set up pages and section structure in a file.
 
 ---
 
