@@ -20,6 +20,7 @@ Product Designer · New York
 
 ## Native Apps
 
+- [**Anchor**](https://github.com/madebysan/anchor) — Local markdown editor with anchored Claude Code edits. macOS.
 - [**Arrival**](https://github.com/madebysan/arrival) — NYC subway arrivals for macOS and iOS.
 - [**Aura Health**](https://github.com/madebysan/aura-health) — Health dashboard with vitals, labs, and chat. macOS · iOS.
 - [**RawCam**](https://github.com/madebysan/rawcam) — Minimal camera. Just the sensor, no postprocessing. iOS.
