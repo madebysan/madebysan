@@ -13,7 +13,7 @@ Product Designer · New York
 
 ## Design Tools
 
-- [**Design Swatches**](https://github.com/madebysan/design-swatches) — Portable visual identity for AI coding agents.
+- [**Design Swatches**](https://designmd.santiagoalonso.com) — Portable visual identity for AI coding agents.
 - [**Claude Figma Skills**](https://github.com/madebysan/claude-figma-skills) — Claude Code skills for reviewing designs, acting on comments, and syncing tokens.
 - [**Craft Mockups**](https://craft.santiagoalonso.com) — Create device mockups with realistic 3D lighting.
 - [**Theme Editor**](https://github.com/madebysan/theme-editor) — Live theme editor for React + Tailwind v4.
