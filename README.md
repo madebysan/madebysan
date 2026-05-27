@@ -23,6 +23,6 @@ Product Designer · New York
 - [**Anchor**](https://github.com/madebysan/anchor) — Collaborate with AI writers inside your local notes. macOS.
 - [**Arrival**](https://github.com/madebysan/arrival) — NYC subway arrivals for macOS and iOS.
 - [**Aura Health**](https://github.com/madebysan/aura-health) — Health dashboard with vitals, labs, and chat. macOS · iOS.
-- [**RawCam**](https://github.com/madebysan/rawcam) — Minimal camera. Just the sensor, no postprocessing. iOS.
+- [**RawCam**](https://apps.apple.com/app/rawcam-raw-dng-camera/id6765531876) — Minimal camera. Just the sensor, no postprocessing. iOS.
 - [**Peek**](https://github.com/madebysan/peek) — Privacy screen that blurs around the cursor. macOS.
 - [**Markflow**](https://github.com/madebysan/markflow) — Simple on-the-go markdown reader and editor. iOS.
