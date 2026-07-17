@@ -9,7 +9,7 @@ Building tools for creative work.
 - [**Cinemateca**](https://cinemateca.co): A film research platform for ratings, commentaries, video essays, and podcasts.
 - [**Rerun NYC**](https://rerun.nyc): Repertory movies playing across New York City, mapped by cinema.
 - [**Scriptlook**](https://www.scriptlook.com): Turn screenplays into film vision decks, references, storyboards, and posters.
-- **Lineup**: Find stand-up comedians by style, grounded in what they actually say on stage. Coming soon.
+- [**Lineup**](https://comedylineup.santiagoalonso.com/): Find stand-up comedians by style, grounded in what they actually say on stage.
 
 ### Design & Figma
 
