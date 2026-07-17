@@ -6,7 +6,9 @@ Building tools for creative work.
 
 ## Recent projects
 
-<!-- Curated list. Private repositories link to their public product pages. -->
+### External projects
+
+<!-- Private repositories link to their public product pages. -->
 
 - [**Cinemateca**](https://cinemateca.co): A film research platform for ratings, commentaries, video essays, and podcasts.
 - [**Rerun NYC**](https://rerun.nyc): Repertory movies playing across New York City, mapped by cinema.
@@ -16,6 +18,9 @@ Building tools for creative work.
 - [**Material Icons Picker**](https://www.figma.com/community/plugin/1614730415386870995/material-icons-picker): Browse, search, and insert Google Material Symbols in Figma.
 - [**Auto Layout Cleaner**](https://www.figma.com/community/plugin/1608984541189092337/auto-layout-cleaner): Find and remove redundant wrapper frames from Figma auto layout hierarchies.
 - [**Craft**](https://craft.santiagoalonso.com): Create 3D device mockups in the browser.
+
+### GitHub repositories
+
 - [**Claude Figma Skills**](https://github.com/madebysan/claude-figma-skills): Review designs, act on comments, and sync tokens with Claude Code and Figma.
 - [**Companion**](https://github.com/madebysan/companion): Select text in any Mac app, run a writing command, and replace it in place with a cloud or local model.
 - [**Aura Health**](https://github.com/madebysan/aura-health): A private health dashboard for vitals, labs, medications, habits, and notes.
@@ -24,4 +29,7 @@ Building tools for creative work.
 - [**Redact**](https://github.com/madebysan/redact): Edit video by editing its transcript. Cut filler words, remove sentences, and export on macOS.
 - [**Anchor**](https://github.com/madebysan/anchor): Review AI edits directly inside local Markdown notes, with every change shown before saving.
 - [**Peek**](https://github.com/madebysan/peek): A digital privacy screen for macOS that blurs your screen around the cursor.
-- **Lineup**: Find stand-up comedians by style, grounded in what they actually say on stage. Coming soon.
+
+### Coming soon
+
+- **Lineup**: Find stand-up comedians by style, grounded in what they actually say on stage.
