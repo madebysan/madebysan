@@ -6,26 +6,26 @@ Building tools for creative work.
 
 ### Film & culture
 
-- [**Cinemateca**](https://cinemateca.co): A film research platform for ratings, commentaries, video essays, and podcasts.
-- [**Rerun NYC**](https://rerun.nyc): Repertory movies playing across New York City, mapped by cinema.
-- [**Scriptlook**](https://www.scriptlook.com): Turn screenplays into film vision decks, references, storyboards, and posters.
-- [**Lineup**](https://comedylineup.santiagoalonso.com/): Find stand-up comedians by style, grounded in what they actually say on stage.
+- [**Cinemateca**](https://cinemateca.co): Go deeper into cinema with one connected film database · Web app.
+- [**Rerun NYC**](https://rerun.nyc): Find repertory, classic, and cult screenings across New York City · Web app.
+- [**Scriptlook**](https://www.scriptlook.com): Turn screenplays into film vision decks, references, storyboards, and posters · Web app.
+- [**Lineup**](https://comedylineup.santiagoalonso.com/): Explore stand-up recommendations based on each comedian’s style and material · Web app.
 
 ### Design & Figma
 
-- [**Design Swatches**](https://designmd.santiagoalonso.com): Real-company design profiles for AI coding agents.
-- [**Material Icons Picker**](https://www.figma.com/community/plugin/1614730415386870995/material-icons-picker): Browse, search, and insert Google Material Symbols in Figma.
-- [**Auto Layout Cleaner**](https://www.figma.com/community/plugin/1608984541189092337/auto-layout-cleaner): Find and remove redundant wrapper frames from Figma auto layout hierarchies.
-- [**Craft**](https://craft.santiagoalonso.com): Create 3D device mockups in the browser.
-- [**Claude Figma Skills**](https://github.com/madebysan/claude-figma-skills): Review designs, act on comments, and sync tokens with Claude Code and Figma.
+- [**Design Swatches**](https://designmd.santiagoalonso.com): Browse portable `design.md` references built for coding agents · Web tool.
+- [**Material Icons Picker**](https://www.figma.com/community/plugin/1614730415386870995/material-icons-picker): Find and insert current Material Symbols without leaving Figma · Figma plugin.
+- [**Auto Layout Cleaner**](https://www.figma.com/community/plugin/1608984541189092337/auto-layout-cleaner): Clean up unnecessary wrapper frames in Figma auto layouts · Figma plugin.
+- [**Craft**](https://craft.santiagoalonso.com): Turn screenshots into realistic 3D device mockups with adjustable angles and lighting · Web app.
+- [**Claude Figma Skills**](https://github.com/madebysan/claude-figma-skills): Review designs, act on comments, and sync tokens between Claude Code and Figma.
 
 ### Apps & tools
 
-- [**Sidekick**](https://chromewebstore.google.com/detail/sidekick/bniahajjmpkajkpeelflghnaapjgmcbn): A private AI chat for any webpage or YouTube video. Chrome extension.
-- [**Companion**](https://github.com/madebysan/companion): Select text in any Mac app, run a writing command, and replace it in place with a cloud or local model.
-- [**Aura Health**](https://github.com/madebysan/aura-health): A private health dashboard for vitals, labs, medications, habits, and notes.
-- [**Markflow**](https://github.com/madebysan/markflow): Open Markdown files on your iPhone as rendered documents, then read, edit, save, or share them.
-- [**RawCam**](https://github.com/madebysan/rawcam): Shoot unprocessed DNG photos on your iPhone and keep the sensor data for your own edits.
-- [**Redact**](https://github.com/madebysan/redact): Edit video by editing its transcript. Cut filler words, remove sentences, and export on macOS.
-- [**Anchor**](https://github.com/madebysan/anchor): Review AI edits directly inside local Markdown notes, with every change shown before saving.
-- [**Peek**](https://github.com/madebysan/peek): A digital privacy screen for macOS that blurs your screen around the cursor.
+- [**Sidekick**](https://chromewebstore.google.com/detail/sidekick/bniahajjmpkajkpeelflghnaapjgmcbn): Chat privately with AI about webpages and YouTube videos · Chrome extension.
+- [**Companion**](https://github.com/madebysan/companion): Rewrite selected text using your own API key or a local model · Mac app.
+- [**Aura Health**](https://github.com/madebysan/aura-health): Track vitals, labs, medications, habits, and health notes · iPhone and Mac app.
+- [**Markflow**](https://github.com/madebysan/markflow): Read and edit Markdown files without moving them into another system · iPhone app.
+- [**RawCam**](https://github.com/madebysan/rawcam): Capture RAW photos without Apple’s automatic image processing · iPhone app.
+- [**Redact**](https://github.com/madebysan/redact): Edit video through its transcript. Cut filler words, remove sentences, and export · Mac app.
+- [**Anchor**](https://github.com/madebysan/anchor): Edit local Markdown with an AI collaborator and review every change · Mac app.
+- [**Peek**](https://github.com/madebysan/peek): Blur everything except a clear circle around your cursor · Mac app.
