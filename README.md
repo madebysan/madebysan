@@ -1,6 +1,6 @@
 # san
 
-I work across product, brand, and systems. These are some of the things I’ve been making lately.
+Building tools for creative work.
 
 [santiagoalonso.com](https://santiagoalonso.com) · [figma.com/@san](https://www.figma.com/@san) · [instagram.com/madebysan](https://instagram.com/madebysan)
 
