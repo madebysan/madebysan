@@ -21,6 +21,7 @@ Building tools for creative work.
 
 ### Apps & tools
 
+- [**Memo**](https://apps.apple.com/us/app/memo-private-voice-journal/id6794707670): Turn spoken thoughts into private journal entries saved as Markdown · iPhone app.
 - [**Companion**](https://github.com/madebysan/companion): Rewrite selected text using your own API key or a local model · Mac app.
 - [**Peek**](https://github.com/madebysan/peek): Blur everything except a clear circle around your cursor · Mac app.
 - [**Sidekick**](https://chromewebstore.google.com/detail/sidekick/bniahajjmpkajkpeelflghnaapjgmcbn): Chat privately with AI about webpages and YouTube videos · Chrome extension.
