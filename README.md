@@ -17,3 +17,4 @@ Building tools for creative work.
 - [**Peek**](https://github.com/madebysan/peek): Blur everything except a clear circle around your cursor · Mac app.
 - [**Redact**](https://github.com/madebysan/redact): Edit video through its transcript. Cut filler words, remove sentences, and export · Mac app.
 - [**Aura Health**](https://github.com/madebysan/aura-health): Track vitals, labs, medications, habits, and health notes · iPhone and Mac app.
+- [**RawCam**](https://github.com/madebysan/rawcam): Capture RAW photos without Apple’s automatic image processing · iPhone app.
