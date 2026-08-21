@@ -14,7 +14,7 @@ Building tools for creative work.
 
 - [**Memo**](https://apps.apple.com/us/app/memo-private-voice-journal/id6794707670): Voice memos and journal entries, processed locally · iPhone app.
 - [**Companion**](https://github.com/madebysan/companion): Rewrite selected text using your own API key or a local model · Mac app.
-- [**Peek**](https://github.com/madebysan/peek): Blur everything except a clear circle around your cursor · Mac app.
+- [**Peek**](https://apps.apple.com/us/app/peek-screen-privacy/id6800797352?mt=12): Blur everything except a clear circle around your cursor · Mac app.
 - [**Redact**](https://github.com/madebysan/redact): Edit video through its transcript. Cut filler words, remove sentences, and export · Mac app.
 - [**Aura Health**](https://github.com/madebysan/aura-health): Track vitals, labs, medications, habits, and health notes · iPhone and Mac app.
 - [**RawCam**](https://github.com/madebysan/rawcam): Capture RAW photos without Apple’s automatic image processing · iPhone app.
