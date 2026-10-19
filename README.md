@@ -11,7 +11,7 @@ Product designer in New York. I run [Cinemateca](https://cinemateca.co) and buil
 <tr>
 <td valign="top"><img src="assets/icons/memo.png" width="64" alt="Memo icon"><br><b>Memo</b><br>Private voice journal with local AI<br><a href="https://apps.apple.com/us/app/memo-private-voice-journal/id6794707670">App Store</a></td>
 <td valign="top"><img src="assets/icons/wave.png" width="64" alt="Wave icon"><br><b>Wave</b><br>Voice-to-text for any app<br><a href="https://apps.apple.com/us/app/wave-voice-keyboard/id6759767993">App Store</a></td>
-<td valign="top"><img src="assets/icons/duet.png" width="64" alt="Duet icon"><br><b>Duet</b><br>Stack two audio tracks on iPhone<br>In progress</td>
+<td valign="top"><img src="assets/icons/duet.png" width="64" alt="Duet icon"><br><b>Duet</b><br>Audio that keeps playing under other apps<br><a href="https://github.com/madebysan/duet">View repo</a></td>
 </tr>
 <tr>
 <td valign="top"><img src="assets/icons/redact.png" width="64" alt="Redact icon"><br><b>Redact</b><br>Edit video and audio as text<br><a href="https://github.com/madebysan/redact">View repo</a></td>
