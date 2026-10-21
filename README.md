@@ -24,7 +24,7 @@ Product designer in New York. I run [Cinemateca](https://cinemateca.co) and buil
 <td valign="top"><img src="assets/icons/craft-mockups.png" width="64" alt="Craft Mockups icon"><br><b>Craft Mockups</b><br>Create 3D device mockups online<br><a href="https://craft.santiagoalonso.com">Visit site</a></td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/icons/arrival.png" width="64" alt="Arrival icon"><br><b>Arrival</b><br>NYC subway arrivals in a widget<br><a href="https://apps.apple.com/us/app/arrival-nyc-subway/id6759941751">App Store</a> · <a href="https://github.com/madebysan/arrival">View repo</a></td>
+<td valign="top"><img src="assets/icons/arrival.png" width="64" alt="Arrival icon"><br><b>Arrival</b><br>NYC subway arrivals in a widget<br><a href="https://apps.apple.com/us/app/arrival-nyc-subway-times/id6759941751">App Store</a> · <a href="https://github.com/madebysan/arrival">View repo</a></td>
 <td valign="top"><img src="assets/icons/aura-health.png" width="64" alt="Aura Health icon"><br><b>Aura Health</b><br>Your health data, one dashboard<br><a href="https://github.com/madebysan/aura-health">View repo</a></td>
 <td valign="top"><img src="assets/icons/dial.png" width="64" alt="Dial icon"><br><b>Dial</b><br>Local radio from around the world<br><a href="https://github.com/madebysan/dial">View repo</a></td>
 </tr>
