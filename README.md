@@ -19,7 +19,7 @@ Product designer in New York. I run [Cinemateca](https://cinemateca.co) and buil
 <td valign="top"><img src="assets/icons/offscript.png" width="64" alt="Offscript icon"><br><b>Offscript</b><br>Auto-paced teleprompter for Mac<br><a href="https://github.com/madebysan/offscript">View repo</a></td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/icons/redraft-owl.png" width="64" alt="Redraft icon"><br><b>Redraft</b><br>AI rewrites in any Mac app<br><a href="https://github.com/madebysan/redraft">View repo</a></td>
+<td valign="top"><img src="assets/icons/redraft-owl.png" width="64" alt="Redraft icon"><br><b>Redraft</b><br>AI rewrites in any Mac app<br><a href="https://redraft-mac.vercel.app">Visit site</a> · <a href="https://github.com/madebysan/redraft">View repo</a></td>
 <td valign="top"><img src="assets/icons/scriptlook.png" width="64" alt="Scriptlook icon"><br><b>Scriptlook</b><br>Turn scripts into vision decks<br><a href="https://www.scriptlook.com">Visit site</a> · <a href="https://github.com/madebysan/scriptlook">View repo</a></td>
 <td valign="top"><img src="assets/icons/craft-mockups.png" width="64" alt="Craft Mockups icon"><br><b>Craft Mockups</b><br>Create 3D device mockups online<br><a href="https://craft.santiagoalonso.com">Visit site</a></td>
 </tr>
