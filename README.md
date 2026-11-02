@@ -1,7 +1,3 @@
-Product designer in New York. I run [Cinemateca](https://cinemateca.co) and build apps for film, health and privacy.
-
-[santiagoalonso.com](https://santiagoalonso.com) · [Figma](https://www.figma.com/@san) · [Instagram](https://www.instagram.com/madebysan) · [LinkedIn](https://www.linkedin.com/in/madebysan)
-
 <table>
 <tr>
 <td width="33%" valign="top"><img src="assets/spacer.png" width="1000" height="0" align="right" alt=""><img src="assets/icons/cinemateca.png" width="64" alt="Cinemateca icon"><br><b>Cinemateca</b><br>The film research platform<br><a href="https://apps.apple.com/us/app/cinemateca-film-archive/id6770132112">App Store</a> · <a href="https://cinemateca.co">Visit site</a></td>
