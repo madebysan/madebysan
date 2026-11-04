@@ -6,7 +6,7 @@
 </tr>
 <tr>
 <td valign="top"><img src="assets/icons/memo.png" width="64" alt="Memo icon"><br><b>Memo</b><br>Private voice journal with local AI<br><a href="https://apps.apple.com/us/app/memo-private-voice-journal/id6794707670">App Store</a></td>
-<td valign="top"><img src="assets/icons/duet.png" width="64" alt="Duet icon"><br><b>Duet</b><br>Stack two audio tracks on iPhone<br><a href="https://apps.apple.com/us/app/duet-audio-under-any-app/id6824279474">App Store</a> · <a href="https://github.com/madebysan/duet">View repo</a></td>
+<td valign="top"><img src="assets/icons/duet.png" width="64" alt="Duet icon"><br><b>Duet</b><br>Audio that plays alongside any app<br><a href="https://apps.apple.com/us/app/duet-audio-under-any-app/id6824279474">App Store</a> · <a href="https://github.com/madebysan/duet">View repo</a></td>
 <td valign="top"><img src="assets/icons/redact.png" width="64" alt="Redact icon"><br><b>Redact</b><br>Edit video and audio as text<br><a href="https://github.com/madebysan/redact">View repo</a></td>
 </tr>
 <tr>
