@@ -10,7 +10,7 @@
 <td valign="top"><img src="assets/icons/aura-health.png" width="64" alt="Aura Health icon"><br><b>Aura Health</b><br>Your health data in one private dashboard.<br><a href="https://github.com/madebysan/aura-health">Repo</a></td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/icons/memo.png" width="64" alt="Memo icon"><br><b>Memo</b><br>Voice memos and journal entries, processed locally.<br><a href="https://apps.apple.com/us/app/memo-private-voice-journal/id6794707670">App Store</a></td>
+<td valign="top"><img src="assets/icons/memo.png" width="64" alt="Memo icon"><br><b>Memo</b><br>Turn voice notes into private journals.<br><a href="https://apps.apple.com/us/app/memo-private-voice-journal/id6794707670">App Store</a></td>
 <td valign="top"><img src="assets/icons/arrival.png" width="64" alt="Arrival icon"><br><b>Arrival</b><br>NYC subway arrivals in a widget<br><a href="https://apps.apple.com/us/app/arrival-nyc-subway-times/id6759941751">App Store</a> · <a href="https://github.com/madebysan/arrival">Repo</a></td>
 <td valign="top"><img src="assets/icons/theme-editor.png" width="64" alt="Theme Editor icon"><br><b>Theme Editor</b><br>Live theme editor. React + Tailwind v4.<br><a href="https://github.com/madebysan/theme-editor">Repo</a></td>
 </tr>
